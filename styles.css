@@ -133,6 +133,7 @@
         z-index: 99;
         height: 50vh;
         font-size: 1.6rem;
+        background-color: black;
     }
 
     #nav__logo{
